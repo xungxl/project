@@ -63,7 +63,3 @@ class Monstergame:
 if __name__ == "__main__":
   x = Monstergame()
   x.game()
-
-if __name__ == "__main__":
-  x = Monstergame()
-  x.game()
